@@ -1,4 +1,4 @@
-Airbnb NYC Data Quality Analysis
+Airbnb  Data Quality Analysis
 
 Project Overview
 This project focuses on improving the quality and reliability of Airbnb NYC listing data through data cleaning and preprocessing techniques. Raw datasets often contain incomplete information, inconsistent formatting, duplicate records, and unusual values that can affect analysis and decision-making.
