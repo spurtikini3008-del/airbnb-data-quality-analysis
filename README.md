@@ -17,7 +17,7 @@ Improve overall data consistency
 Prepare a reliable dataset for analysis
 Dataset Information
 
-Dataset: Airbnb NYC 2019
+Dataset: Airbnb 2019
 
 Features included:
 
